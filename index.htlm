@@ -2,10 +2,34 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cabinet d'ostéopathie Léa Quinson</title>
 </head>
+
 <body>
   <h1>Cabinet d'ostéopathie Léa Quinson</h1>
-  <p>Bienvenue sur mon site internet.</p>
+
+  <h2>Bienvenue</h2>
+  <p>
+    Bienvenue sur le site de mon cabinet d'ostéopathie.
+    Je vous accompagne dans la prise en charge de vos douleurs
+    et dans l'amélioration de votre mobilité au quotidien.
+  </p>
+
+  <h2>Consultations</h2>
+  <p>
+    Consultations d'ostéopathie pour adultes, adolescents et enfants.
+  </p>
+
+  <h2>Informations pratiques</h2>
+  <p>
+    Cabinet d'ostéopathie<br>
+    Tarifs : 60 € la consultation
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Pour prendre rendez-vous, contactez-moi.
+  </p>
 </body>
 </html>
